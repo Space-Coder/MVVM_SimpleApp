@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User ID="0278bcc9-b264-445a-814f-421a0983a54f">
+    <Name>Aleksei</Name>
+    <Surname>Sinitski</Surname>
+    <Age>22</Age>
+    <Role>Admin</Role>
+  </User>
+  <User ID="4526459a-4723-4f02-8402-825b79373efa">
+    <Name>Dmitry</Name>
+    <Surname>Erohin</Surname>
+    <Age>42</Age>
+    <Role>User</Role>
+  </User>
+  <User ID="ee227efc-2cf7-45db-96ef-b7e33350a050">
+    <Name>Viktar</Name>
+    <Surname>Strelcov</Surname>
+    <Age>31</Age>
+    <Role>User</Role>
+  </User>
+  <User ID="58110090-9235-4fe3-97b6-f5c995b6cfc7">
+    <Name>Oleg</Name>
+    <Surname>Vinnik</Surname>
+    <Age>25</Age>
+    <Role>Moderator</Role>
+  </User>
+</Users>
